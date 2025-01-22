@@ -142,6 +142,9 @@
   "BriteSnow.vscode-toggle-quotes": {
     "repository": "https://github.com/BriteSnow/vscode-toggle-quotes"
   },
+  "buenon.scratchpads": {
+    "repository": "https://github.com/buenon/scratchpads"
+  }
   "buianhthang.gitflow": {
     "repository": "https://github.com/anhthang/vscode-gitflow"
   },
